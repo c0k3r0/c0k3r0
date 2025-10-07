@@ -1,8 +1,9 @@
 <h1 align="center">👾 Bienvenido al laboratorio de c0k3r0 👾</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300">
 </p>
+
 
 ---
 
