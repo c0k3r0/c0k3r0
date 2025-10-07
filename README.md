@@ -1,7 +1,7 @@
 <h1 align="center">👾 Bienvenido al laboratorio de c0k3r0 👾</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="200">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400">
 </p>
 
 ---
