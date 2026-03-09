@@ -1,89 +1,121 @@
-![banner](banner.png)
+<h1 align="center">Jorge Ruiz Ojosnegros</h1>
 
 <p align="center">
-<code>root@c0k3r0:~# whoami</code>
+<code>root@c0k3r0:~# ./welcome.sh</code>
+</p>
+
+<p align="center">
+<img src="banner.png" width="100%">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-```
+```bash
 root@c0k3r0:~# whoami
-````
-- 🛡️ Cybersecurity enthusiast
+```
 
-- 🎯 Aspiring Pentester / Blue Team
+- 🛡️ Cybersecurity Enthusiast  
+- 🎯 Aspiring Pentester / Blue Team  
+- 🧪 CTF Player  
+- 🔎 Security Research  
 
-- 🧪 CTF player
+Currently documenting my journey while transitioning into cybersecurity.
 
-- 🔎 Security Research
+Focused on:
 
-Currently working on:
-
-Web fuzzing tool development
-
-CTF writeups
-
-Offensive security labs
+- Offensive Security  
+- Web Application Testing  
+- Capture The Flag Challenges  
+- Security Tool Development  
 
 ---
 
-```markdown
 ## 📜 Certifications
 
-- eJPT (INE)
-- Google Cybersecurity Professional Certificate
+- 🥇 **eJPT v2 – Junior Penetration Tester (INE)**
+- 🛡️ **Google Cybersecurity Professional Certificate**
 
 ---
 
-## 💻 Herramientas favoritas
+## 🚀 Projects
 
-### 🛰️ Reconocimiento y Enumeración
+### 🔍 CTF Writeups
+Portfolio of solved CTF machines and challenges with detailed methodology.
+
+### ⚙️ Security Tools
+Development of scripts and tools for automation and security testing.
+
+### 📁 Payloads & Cheatsheets
+Personal repository with useful pentesting resources.
+
+---
+
+## 💻 Favorite Tools
+
+### 🛰️ Reconnaissance & Enumeration
 ![Nmap](https://img.shields.io/badge/-Nmap-grey)
 ![Gobuster](https://img.shields.io/badge/-Gobuster-yellow)
 ![theHarvester](https://img.shields.io/badge/-theHarvester-lightgrey)
 ![Amass](https://img.shields.io/badge/-Amass-darkgreen)
 
-### 🔓 Fuerza Bruta / Credenciales
+### 🔓 Credentials / Brute Force
 ![Hydra](https://img.shields.io/badge/-Hydra-black)
 ![CrackMapExec](https://img.shields.io/badge/-CME-darkred)
 
-### 🕷️ Pentesting Web / Análisis de Aplicaciones
+### 🕷️ Web Application Security
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange)
-
-### 💥 Explotación
-![Metasploit](https://img.shields.io/badge/-Metasploit-red)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-yellow)
 
-### 🩺 Post-Explotación / Privesc
+### 💥 Exploitation
+![Metasploit](https://img.shields.io/badge/-Metasploit-red)
+
+### 🩺 Privilege Escalation
 ![LinPEAS](https://img.shields.io/badge/-LinPEAS-green)
 ![WinPEAS](https://img.shields.io/badge/-WinPEAS-blue)
 ![BloodHound](https://img.shields.io/badge/-BloodHound-darkblue)
 
-### 📡 Análisis de Red y Forense
+### 📡 Network Analysis
 ![Wireshark](https://img.shields.io/badge/-Wireshark-blue)
 ![Splunk](https://img.shields.io/badge/-Splunk-black)
 
-### 🐍 Lenguajes y Plataformas
+### 🐍 Languages & Platforms
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-darkgreen)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=linux)
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=c0k3r0&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=c0k3r0&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
-## 📊 Actividad en GitHub
+## 💻 Most Used Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=c0k3r0&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📫 Contact
+
+- 🔗 LinkedIn → https://linkedin.com/in/jorgeruizojosnegros  
+- 🌐 CTF Writeups → https://c0k3r0.github.io/ctf-writeups/
 
 ---
 
-## 📫 Contacto
-
-- 🔗 [LinkedIn](https://linkedin.com/in/jorgeruizojosnegros)  
-- 🌐 [Blog](https://c0k3r0.github.io/ctf-writeups/)
-
----
+<p align="center">
+⚡ Always learning | Always hacking ⚡
+</p>
