@@ -6,18 +6,34 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧑‍💻 About Me
 
-🎩 Entusiasta del hacking ético | 🧠 eJPTv2 & Google Cibersecurity Certified | 🔐 Jugador de CTFs  
-🖥️ Documentando mi aprendizaje mientras avanzo hacia una carrera en ciberseguridad.
+```
+root@c0k3r0:~# whoami
+````
+- 🛡️ Cybersecurity enthusiast
+
+- 🎯 Aspiring Pentester / Blue Team
+
+- 🧪 CTF player
+
+- 🔎 Security Research
+
+Currently working on:
+
+Web fuzzing tool development
+
+CTF writeups
+
+Offensive security labs
 
 ---
 
-## 🧪 Proyectos actuales
+```markdown
+## 📜 Certifications
 
-- 🔍 **CTF-Writeups** → Portafolio de write-ups de máquinas CTF  
-- ⚙️ **OSINT Tools** → Scripts y técnicas para recolección de inteligencia  
-- 📁 **Payloads & Cheatsheets** → Repositorio personal de recursos para pentesting
+- eJPT (INE)
+- Google Cybersecurity Professional Certificate
 
 ---
 
