@@ -99,7 +99,7 @@ Personal repository with useful pentesting resources.
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight" />
 </p>
 
 ---
