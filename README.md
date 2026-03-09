@@ -1,9 +1,10 @@
 <h1 align="center"> Jorge Ruiz Ojosnegros </h1>
-<p align="center"><code>root@c0k3r0:~# ./welcome.sh</code></p>
-
+<p align="center">
+  <code>root@c0k3r0:~# ./welcome.sh</code>
+</p>
 
 <p align="center">
-  <img src="banner.png">
+  <img src="banner.png" width="100%">
 </p>
 
 
@@ -70,7 +71,7 @@
 
 ## 📫 Contacto
 
-- 🔗 [LinkedIn](https://linkedin.com/in/jorge-ruiz-ojosnegros-b5b2922b7)  
-- 🌐 Blog: *próximamente...*
+- 🔗 [LinkedIn](https://linkedin.com/in/jorgeruizojosnegros)  
+- 🌐 [Blog](https://c0k3r0.github.io/ctf-writeups/)
 
 ---
