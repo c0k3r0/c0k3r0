@@ -4,9 +4,7 @@
 <code>root@c0k3r0:~# ./welcome.sh</code>
 </p>
 
-<p align="center">
-<img src="banner.png" width="100%">
-</p>
+![Banner](banner.png)
 
 ---
 
