@@ -1,12 +1,10 @@
-<h1 align="center"> Jorge Ruiz Ojosnegros </h1>
-<p align="center">
-  <code>root@c0k3r0:~# ./welcome.sh</code>
-</p>
+![banner](banner.png)
+
+<h1 align="center">Jorge Ruiz Ojosnegros</h1>
 
 <p align="center">
-  <img src="banner.png" width="100%">
+<code>root@c0k3r0:~# whoami</code>
 </p>
-
 
 ---
 
