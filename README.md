@@ -1,7 +1,5 @@
 ![banner](banner.png)
 
-<h1 align="center">Jorge Ruiz Ojosnegros</h1>
-
 <p align="center">
 <code>root@c0k3r0:~# whoami</code>
 </p>
