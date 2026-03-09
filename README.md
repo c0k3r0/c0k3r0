@@ -99,16 +99,6 @@ Personal repository with useful pentesting resources.
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 📫 Contact
 
 - 🔗 LinkedIn → https://linkedin.com/in/jorgeruizojosnegros  
