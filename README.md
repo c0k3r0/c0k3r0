@@ -2,6 +2,7 @@
 <p align="center">
 <code>root@c0k3r0:~# ./welcome.sh</code>
 </p>
+
 ---
 
 ## 🧠 About Me
