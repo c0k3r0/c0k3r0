@@ -1,11 +1,7 @@
-<h1 align="center">Jorge Ruiz Ojosnegros</h1>
-
+![Banner](banner.png)
 <p align="center">
 <code>root@c0k3r0:~# ./welcome.sh</code>
 </p>
-
-![Banner](banner.png)
-
 ---
 
 ## 🧠 About Me
