@@ -92,6 +92,14 @@ Personal repository with useful pentesting resources.
 
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0k3r0&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 📫 Contact
